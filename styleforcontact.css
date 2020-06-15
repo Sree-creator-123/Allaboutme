@@ -1,0 +1,13 @@
+header {
+    background-color: #e4fffe;
+    color: #6dc9c8;
+    padding: 50px 0 0;
+    font-size: 2em;
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+}
+
+h1, p {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+}
